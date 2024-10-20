@@ -1,5 +1,6 @@
-Delete this readme and node modules with json packages (if needed) but must delete redme
+Delete this readme (after cloning)
 clone repo
+navigate to direcory
 run:  npm init -y
 run: npm install express
 
