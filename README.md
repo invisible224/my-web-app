@@ -1,6 +1,6 @@
-Delete this readme (after cloning)
-clone repo
-navigate to direcory
+install nodejs if not installed
+# create a directory name:  my-web-app
+navigate to directory
 run:  npm init -y  \n
 run: npm install express
 
