@@ -9,15 +9,15 @@ navigate to directory: cd my-web-app (run all commands inside this directory)
   
   copy the  index.js and Dockerfile in the directory 
 
-(all on CMD)
+# (all on CMD)
 run: docker login
 
 #build the image:
   docker build -t my-web-app .
 
-#run the docker container: (optional)
+#run the docker container: (optional):
   docker run -p 3000:3000 my-web-app
 
-#verify the  image
+#verify the  image:
   docker images
 
