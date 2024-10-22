@@ -5,7 +5,7 @@ navigate to directory: cd my-web-app (run all commands inside this directory)
 Open CMD 
   run:  npm init -y  
   run: npm install express
-copy the  index.js and Dockerfile in the directory 
+  copy the  index.js and Dockerfile in the directory 
 
 (all on CMD)
 run: docker login
